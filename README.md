@@ -31,4 +31,3 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/API/WebRTC/WebRTC_architectur
 
 https://groups.google.com/forum/#!topic/mozilla.dev.media/FrQE1OV7y38
 
-https://github.com/konomae/stunpy/blob/master/stun.py
